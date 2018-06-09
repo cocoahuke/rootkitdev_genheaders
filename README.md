@@ -226,7 +226,7 @@ Get it ?
 
 ## At last
 
-Yes, You will find a lot **Private KPI** appear in the autocomplete list, your kext will be rejected when loading due to the use Private KPI. `kextstat` tool can use to Check if you have used.
+Yes, You will find a lot **Private KPI** appear in the autocomplete list, your kext will be rejected when loading due to the use Private KPI. `kextlibs` tool can use to Check if you have used.
 
 In order to use them, you need to calculate their address in memory.
 
