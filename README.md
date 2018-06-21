@@ -155,6 +155,7 @@ Also, please change `xnu_export` to your determined name. (Tip: TextEdit - Find 
 #include <xnu_export/bsd/sys/file_internal.h>
 #include <xnu_export/bsd/sys/namei.h>
 #include <xnu_export/bsd/sys/proc.h>
+#include <xnu_export/bsd/sys/random.h>
 #include <xnu_export/bsd/sys/proc_internal.h>
 #include <xnu_export/bsd/sys/proc_info.h>
 #include <xnu_export/bsd/sys/sysproto.h>
@@ -163,10 +164,10 @@ Also, please change `xnu_export` to your determined name. (Tip: TextEdit - Find 
 #include <xnu_export/bsd/sys/file_internal.h>
 #include <xnu_export/bsd/sys/uio_internal.h>
 #include <xnu_export/bsd/sys/pipe.h>
-#include <xnu_export/bsd/kern/mach_loader.h>
 #include <xnu_export/bsd/sys/sysctl.h>
 #include <xnu_export/bsd/sys/dirent.h>
 #include <xnu_export/bsd/sys/imgact.h>
+#include <xnu_export/bsd/kern/mach_loader.h>
 #include <xnu_export/bsd/libkern/libkern.h>
 #include <xnu_export/osfmk/kern/syscall_sw.h>
 #include <xnu_export/osfmk/kern/task.h>
